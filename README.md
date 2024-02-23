@@ -1,6 +1,6 @@
 # A Multi-Phase Transport Model for Relativistic Heavy Ion Collisions
 ########################################################################
-by : 
+by : Zi-Wei Lin
 ########################################################################
 A Multi-Phase Transport (AMPT) model is a Monte Carlo transport model for nuclear collisions at relativistic energies.
 ########################################################################
